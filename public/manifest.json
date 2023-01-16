@@ -1,6 +1,6 @@
 {
-  "short_name": "CoreUI-React",
-  "name": "CoreUI-React sample",
+  "short_name": "VitaApp admin panel",
+  "name": "VitaApp admin panel",
   "icons": [
     {
       "src": "./assets/img/favicon.png",
